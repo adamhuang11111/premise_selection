@@ -13,4 +13,4 @@ Codes for parsing context free grammars and guidancefor formatting and vectorizi
 The models can be found in the experiments folders. The files containing the training the models are prefixxed "Network".
 ![arch](plots/arch.png)
 ![val_acc](plots/val_acc.png)
-![tables](tables.png)
+![tables](plots/tables.png)
