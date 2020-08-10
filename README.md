@@ -14,6 +14,6 @@ The models can be found in the experiments folders. The files containing the tra
 ### Architecture
 ![arch](plots/arch.png)
 ### Validation_acc
-![val_acc](plots/val_acc.png)
+<img src= plots/val_acc.png width="400" height="400" />
 ### Tables
-<img src= plots/tables.png width="200" height="400" />
+<img src= plots/tables.png width="500" height="1000" />
