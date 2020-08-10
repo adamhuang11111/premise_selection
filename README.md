@@ -22,5 +22,5 @@ The models can be found in the experiments folders. The files containing the tra
 <img src= plots/tables.png width="400" height="700" />
 
 ## Length Bias
-<img src= plots/length1.png width="1000" height="1000" />
-<img src= plots/length2.png width="1000" height="1000" />
+<img src= plots/length1.png width="600" height="600" />
+<img src= plots/length+positive.png width="600" height="600" />
