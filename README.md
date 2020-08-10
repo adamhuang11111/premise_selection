@@ -16,4 +16,4 @@ The models can be found in the experiments folders. The files containing the tra
 ### Validation_acc
 ![val_acc](plots/val_acc.png)
 ### Tables
-![tables](plots/tables.png = 100x20)
+![tables](plots/tables.png width = 20 height = 100)
