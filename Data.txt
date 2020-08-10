@@ -1,0 +1,19 @@
+
+The raw data can be found: https://github.com/JUrban/deepmath/tree/master/nndata
+
+
+1. Experiment 1 and 2
+
+In the file 'Experiment12', the 'Formatting_experiment12.ipynb' will read the raw data and create a matrix 'Fun' , which will be taken as the input for an embedded network 'Autoencoder.ipynb'. It then turns each conjectures and axioms into a tensor with form 1 x 256. The 'Formatting_experiment12.ipnyb' will then read the result for the embedded neural net, and generate the training set, testing set and human conjecture (include all the conjecture axiom pair across the five chosen conjecture).
+
+'Network model 256.ipnyb', 'Network model 512.ipnyb', 'Network model 1024.ipnyb' and 
+'Network model LSTM.ipnyb' are our four neural networks. Their data will be saved in the file 'data'.
+
+The file 'human_data.txt' stored the accuracy for the five chosen conjectures.
+
+The 'Analysis code.ipynb' will read those data, compute the number and generate figures. 
+
+
+2. Experiment 3
+
+This will be almost identical as the file in Experiment 1 and 2, with some slightly difference in how we manipulate data, and analyze the code. It can be run in the same way as the code in Experiment 1 and 2. 
